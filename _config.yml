@@ -1,7 +1,7 @@
 name: Xbox Allies
 favicon: null
-layout_spectrum: 0.07845436315983534
-typography_spectrum: 0.5117257514502853
+layout_spectrum: 0.97914
+typography_spectrum: 0.32554
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#67a24b'
+    - '#e2e3de'
+    - '#447132'
+    - '#41413a'
   brandStrength: 0.6585914080496877
-  lightness: 0.4589779772795737
-  saturation: 0.9262977961916476
-  rhythmicContrast: 0.12993834004737437
+  lightness: 0.4375
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
